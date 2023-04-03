@@ -1,0 +1,40 @@
+body {text-align: center;
+      margin: 64px auto 240px;}
+
+#main {margin: auto;
+       width: 626px;}
+
+
+h1 {font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 21px;
+    font-weight: normal;
+}
+h1 span {font-weight: bold;}
+
+
+p,a {font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+p strong {font-weight: bold;}
+
+span{color:#EE24FF;}
+
+p span {color:#828282;
+        font-weight: bold;}
+
+
+p{ color:#828282;}
+
+strong {color:#3F3D56}
+
+
+#footer a+a {margin-left:42px;}
+
+#footer {margin-top:69px;
+        margin-bottom: 40px;
+         }
+
+        #Sevoce {margin-top: 27px; }
